@@ -7,4 +7,4 @@
   * HTML boilerplate
   * Tags, elements, attributes, file structure and navigation
   * Code editor, viewing HTML in browser
-  * Protocols and domains 
+  * Git, viewing project in Github
